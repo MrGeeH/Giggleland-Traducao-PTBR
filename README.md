@@ -7,7 +7,7 @@ Deixa o Giggleland em **português do Brasil**: menus, legendas, diálogos, nota
 > 🇺🇸 *Giggleland Brazilian Portuguese translation (PT-BR) — fan-made translation patch*
 
 <p align="center">
-  <img src="instalador/screenshot_instalador.png" alt="Instalador da tradução PT-BR do Giggleland" width="520">
+  <img src="screenshot_instalador.png" alt="Instalador da tradução PT-BR do Giggleland" width="520">
 </p>
 
 ---
